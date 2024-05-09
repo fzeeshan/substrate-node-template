@@ -1,3 +1,12 @@
+# STOP
+This repo is cloned from the following branch: tutorials/solutions/proof-of-existence 
+of the following 
+https://github.com/substrate-developer-hub/substrate-node-template
+
+## DO NOT USE THE INSTRUCTIONS BELOW, instead navigate to 
+https://github.com/fzeeshan/substrate-tutorials
+for instructions.
+
 # Substrate Node Template
 
 A fresh [Substrate](https://substrate.io/) node, ready for hacking :rocket:
